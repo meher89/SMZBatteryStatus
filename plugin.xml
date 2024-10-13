@@ -11,5 +11,5 @@
 </config-file>
 <config-file parent="/*" target="AndroidManifest.xml"></config-file>
 <source-file src="src/android/SMZBatteryStatus.java" target-dir="src/com.smz.batterystatus/SMZBatteryStatus" />
- <source-file src="src/android/SMZBatteryStatusWorker.java" target-dir="src/com.smz.batterystatus/SMZBatteryStatusWorker" />
+ 
 </platform></plugin>

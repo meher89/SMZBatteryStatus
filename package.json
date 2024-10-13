@@ -1,0 +1,25 @@
+{
+  "name": "com.smz.batterystatus",
+  "version": "1.0.0",
+  "description": "battery status background",
+  "cordova": {
+    "id": "com.smz.batterystatus",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meher89/SMZBatteryStatus.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "STE Meher Ziadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meher89/SMZBatteryStatus/issues"
+  },
+  "homepage": "https://github.com/meher89/SMZBatteryStatus#readme"
+}
